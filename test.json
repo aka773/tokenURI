@@ -1,0 +1,11 @@
+{
+  "name": "MyTestNFT #1",
+  "description": "Google Logo",
+  "image": "https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png",
+  "attributes": [
+    {
+      "trait_type": "Number",
+      "value": "123"
+    }
+  ]
+}
